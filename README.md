@@ -1,7 +1,7 @@
 # Weather App
 
 This project is a simple web-based Weather Application that fetches weather information based on the city name provided.
-The weather app can be found at : https://devansh-gupta-official.github.io/Weather-App-RoboVitics/
+The weather app can be found at : [https://devansh-gupta-official.github.io/Weather-App/](https://devansh-gupta-official.github.io/weather-website/)
 
 ## **Description**
 The application uses HTML, CSS, and JavaScript to create a user interface that allows users to input a city name. Upon clicking the search button, it fetches weather data from the OpenWeatherMap API and displays the temperature and weather description for the entered city.
